@@ -1,2 +1,2 @@
-# ORM
-����springJDBCʵ��ORM,��̬����Դ
+﻿# ORM
+基于springJDBC实现ORM,动态数据源
